@@ -19,6 +19,6 @@ Sistema de Livraria com base em prompt para estudos de linguagem.
 - mainLivraria -> arquivo principal de execução que chama os demais. 
 
 # Execução:
-'''
+```bash
 dart run mainLivraria.dart
-'''
+```
